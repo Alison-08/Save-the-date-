@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keep the Ocean Clean</title>
+    <link rel="stylesheet" href="Projecto.css">
+</head>
+<link rel="stylesheet" href="estilos.css">
+<title>Ocean Web</title>
+<body>
+
+    <header>
+        <h1>Keep the Ocean Clean</h1>
+        <p>Protect marine life. Reduce plastic. Be the change.</p>
+    </header>
+
+    <main>
+        <section class="info">
+            <h2>Why It Matters</h2>
+            <p>The ocean covers over 70% of our planet and supports millions of species. Pollution endangers marine life, disrupts ecosystems, and harms our health.</p>
+        </section>
+
+        <section class="actions">
+            <h2>What You Can Do</h2>
+            <ul>
+                <li>Reduce plastic use</li>
+                <li>Participate in beach cleanups</li>
+                <li>Support ocean-friendly organizations</li>
+                <li>Spread awareness</li>
+            </ul>
+        </section>
+
+        <section class="join">
+            <h2>Join the Movement</h2>
+            <p>Every action counts. Sign up and get involved in your community!</p>
+            <button>Subscribe</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Keep the Ocean Clean Initiative</p>
+    </footer>
+     <section class="service-area">
+        <h2>Our Service Areas</h2>
+        <p>We organize cleanups and awareness programs in the following areas:</p>
+        <ul>
+            <li>Scoba Dogs Parque Colon Aguadilla, Puerto Rico</li>
+            <li>Marine Awareness Research & Educational Society Inc Carolina, Puerto Rico</li>
+            <li>Aes International Inc 611 Calle Monserrate, San Juan, PR 00907</li>
+        </ul>
+    </section>
+    <section class="ocean-cleanup">
+    <h2>Mision and vision </h2>
+    <p>The Ocean Cleanup's mission is to develop and scale technologies to rid the oceans of plastic. They aim to clean up 90% of floating ocean plastic by 2040.</p>
+    <p>The organization is committed to protecting and restoring the world's oceans through global cleanups, innovative conservation efforts, and education. They also support targets to prevent and significantly reduce marine pollution.</p>
+    <section class="join">
+        <h2>Join the Movement</h2>
+        <p>Every action counts. Sign up for updates and get involved in your community!</p>
+        <button>Subscribe</button>
+    </section>
+
+    <section class="contact">
+        <h2>CONTACT US</h2>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4"></textarea>
+
+            <button type="submit">Send Message</button>
+            Here!</a></p>
+				<p>Telephone: 787-249-1727</p>
+				<p>Direccion: Calle Ejemplo, 123, Ciudad, Pais</p>
+        </form>
+    </section>
+</main>
+</body>
+</html>
