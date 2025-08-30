@@ -1,0 +1,19 @@
+//src/data/projectData.js
+export const projects =[
+  {
+    id:1,
+    title:{
+      en:"Dad Joke Generator"
+  },
+  description:
+{
+    en:"Dad Joke Generator",
+    es:"Dad Joke Generator",
+  },
+  image:"file:///C:/Users/arcs0/OneDrive/Documents/NextGen/Semana%209/index.html"
+  liveSite:"https://livesite.com/my-sites/Dad Joke Generator"
+  githubRepo:,
+  },
+  //Add more projects here... 
+  https://github.com/Alison-08/Keep-The-Ocean-Clean
+  
